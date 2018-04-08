@@ -31,4 +31,4 @@ JRE: 1.8.0_152-release-1136-b20 amd64
 
 Для проверки использовал утилиту Postman.Запустить сервер можно через node server.js.
 В утилите Postman прописать localhost:8080/users/(get, post, put, delete).
-Весь написанный код в файлах app.js, Server.js, users.js
+Весь написанный код в файлах app.js, Server.js, users.js. Файл users находится в директории /routes.
